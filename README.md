@@ -1,4 +1,4 @@
-# Workflow with NodeJS Lambda Worker#
+# Workflow with NodeJS Lambda Worker #
 
 Workflow using the AWS Step functions as Nodejs Lambdas exposed via a API gateway + Lambda.
 
